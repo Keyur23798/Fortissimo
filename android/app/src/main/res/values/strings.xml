@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">964789500838122</string>
+    <string name="app_name">fortissimo</string>
+    <string name="fb_login_protocol_scheme">fb964789500838122</string>
+</resources>
